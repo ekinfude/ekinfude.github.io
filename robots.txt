@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ekinfude.github.io/sitemap
+Sitemap: https://ekinfude.github.io/app/sitemap
+Sitemap: https://ekinfude.github.io/assets/sitemap
+Sitemap: https://ekinfude.github.io/css/sitemap
+Sitemap: https://ekinfude.github.io/includes/sitemap
+Sitemap: https://ekinfude.github.io/item/sitemap
+Sitemap: https://ekinfude.github.io/src/sitemap
